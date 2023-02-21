@@ -1,11 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
-#include <studio.h>
+#include <stdio.h>
 
 /**
  * main - Determines if a number is positive, negative or zerp.
  *
- * Retuurn: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
