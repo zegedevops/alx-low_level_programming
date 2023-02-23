@@ -1,15 +1,12 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * jack_bauer - Prints every minute of the day of Jack Bauer
- * Return: ...
+ * Return: 0
  */
 
 void jack_bauer(void)
-
 {
-
 	int a, b, c, d;
 
 	for (a = 0; a <= 2; a++)
