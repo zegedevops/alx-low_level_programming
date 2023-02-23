@@ -3,12 +3,12 @@
 /**
  * main - print_putchar
  * is written in mbah
- * Return 0
+ * Return: 0
  */
 
 int main(void)
 {
-	
+
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
