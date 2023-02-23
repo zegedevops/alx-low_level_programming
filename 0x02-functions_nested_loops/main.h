@@ -1,16 +1,13 @@
-#ifndef main_h
-#define main_h
-
-int _puchar(char);
+int _puchar(char c);
 void print-alphabet(void);
 void print_alphabet_x10(void);
-int_slower(int c);
-int_isalpha(int c);
+int _slower(int c);
+int _isalpha(int c);
 int print_sign(int n);
-int_abs(int);
+int _abs(int);
+int print_last_digit(int);
 void jack_bauer(void);
 void times_tale(void);
 int add(int, int);
 void print_to_98(int n);
-
-#endif
+void print_times_table(int);
