@@ -6,7 +6,6 @@
  */
 
 void times_table(void)
-
 {
 	int x, y, z, u, d;
 
