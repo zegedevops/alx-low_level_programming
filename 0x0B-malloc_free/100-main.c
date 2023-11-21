@@ -4,7 +4,8 @@
 
 /**
  * main - check the code for ALX School students.
- *
+ * @ac: The arguement count, representing command line count
+ * @av: An array of string representing te command line args
  * Return: Always 0.
  */
 int main(int ac, char *av[])
